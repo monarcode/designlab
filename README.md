@@ -1,2 +1,2 @@
 # designlab
-inspired frpm dribble
+inspired from dribble
